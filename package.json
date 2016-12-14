@@ -1,19 +1,19 @@
 {
-  "name": "toolbelt",
+  "name": "shelved",
   "version": "1.0.0",
+  "description": "Want to re-use a JavaScript utility function? Shelve it for later.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha src"
   },
-  "keywords": [],
-  "author": "Rob Howell <rob@robhowell.com>",
-  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/robhowell/toolbelt.git"
+    "url": "git+https://github.com/robhowell/shelved.git"
   },
+  "author": "Rob Howell <rob@robhowell.com>",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/robhowell/toolbelt/issues"
+    "url": "https://github.com/robhowell/shelved/issues"
   },
-  "homepage": "https://github.com/robhowell/toolbelt"
+  "homepage": "https://github.com/robhowell/shelved#readme"
 }
