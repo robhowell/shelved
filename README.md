@@ -1,2 +1,2 @@
-# toolbelt
-Useful JavaScript functions for getting stuff done
+# shelved
+JavaScript functions for getting stuff done
